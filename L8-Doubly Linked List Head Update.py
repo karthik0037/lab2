@@ -53,4 +53,4 @@ print()
 h = input("Enter the new head : ")
 print("The updated linked list is : ")
 dll.prepend(h)
-dll.print_list(
+dll.print_list()
